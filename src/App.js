@@ -23,7 +23,7 @@ class App extends Component {
         </DropdownToggle>
         <DropdownMenu>
           <DropdownItem >For entrepreneurs</DropdownItem>
-          <DropdownItem divider />
+          <DropdownItem divider /> 
           <DropdownItem>For Students</DropdownItem>
           <DropdownItem divider />
           <DropdownItem>For Hobbyists</DropdownItem>
